@@ -34,7 +34,7 @@
       },
       "YTPROXY_URL": {
         "description": "YT Proxy Server Endpoint",
-        "value": "https://tgapi.xbitcode.com",
+        "value": "https://tgapi.xbitcode.com", "https://billiepy.qzz.io"
         "required": true
       },
         "YT_API_KEY": {
