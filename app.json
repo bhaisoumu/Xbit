@@ -1,7 +1,7 @@
 {
   "name": "xBitMusic",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://i.imgur.com/example.png",
+  "logo": "https://imgur.com/a/zdIwpug",
   "keywords": [
     "python3",
     "telegram",
@@ -23,12 +23,12 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A Bot's token from Botfather",
+      "description": "A Bot's token from BotFather",
       "value": "",
       "required": true
     },
     "MONGO_DB_URI": {
-      "description": "Get a mongodb url from https://cloud.mongodb.com",
+      "description": "Get a MongoDB URL from https://cloud.mongodb.com",
       "value": "",
       "required": true
     },
@@ -48,7 +48,7 @@
       "required": true
     },
     "STRING_SESSION": {
-      "description": "A Pyrogram v2 String Session",
+      "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram",
       "value": "",
       "required": true
     },
